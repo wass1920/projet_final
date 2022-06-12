@@ -1,0 +1,89 @@
+.App{
+  background-color: rgb(255, 255, 255);
+}
+.tt{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+}
+.film{
+ color: rgb(0, 0, 0);
+ padding-top: 100px;
+  margin-left: 50px;
+  margin-right: 50px;
+  
+}
+
+.sb{
+  display: flex;
+  justify-content: flex-end;
+ 
+}
+.footer{
+  margin-top: 50px;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+.Formulaire{
+display: flex;
+justify-content:center;
+color: white;
+}
+
+.logo{
+  
+  font-style: italic;
+  size: 2px;
+  color: white;
+ 
+}
+
+button.btn.btn-primary a {
+  color: white;
+
+}
+.tr1{
+  display: flex;
+  justify-content:space-around;
+  height: 350px;
+  width: 350px;
+
+}
+.tr2{
+  display: flex;
+  justify-content: space-around;
+
+  color: red;
+}
+.tr3{
+  display: flex;
+  justify-content: space-around;
+
+  color: rgb(11, 6, 6);
+}
+.card-body{
+  background-color: white;
+}
+.footer{
+  color:white;
+  background-color: black;
+}
+
+.eya{
+  background-color: black;
+}
+.navbar {
+  background-color:rgb(254, 207, 52);
+}
+.Main{
+ margin-top: 50px;
+}
+
+button.btn.btn-primary {
+  color: rgb(10, 9, 9);
+  background-color:rgb(254, 207, 52);
+  border-color: #ffffff;
+}
+
